@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bokego-react/static/css/main.d703ada4.chunk.css",
+    "main.js": "/bokego-react/static/js/main.a05400ca.chunk.js",
+    "main.js.map": "/bokego-react/static/js/main.a05400ca.chunk.js.map",
+    "runtime-main.js": "/bokego-react/static/js/runtime-main.96157815.js",
+    "runtime-main.js.map": "/bokego-react/static/js/runtime-main.96157815.js.map",
+    "static/js/2.89ff8aa6.chunk.js": "/bokego-react/static/js/2.89ff8aa6.chunk.js",
+    "static/js/2.89ff8aa6.chunk.js.map": "/bokego-react/static/js/2.89ff8aa6.chunk.js.map",
+    "static/js/3.1454a37b.chunk.js": "/bokego-react/static/js/3.1454a37b.chunk.js",
+    "static/js/3.1454a37b.chunk.js.map": "/bokego-react/static/js/3.1454a37b.chunk.js.map",
+    "index.html": "/bokego-react/index.html",
+    "static/css/main.d703ada4.chunk.css.map": "/bokego-react/static/css/main.d703ada4.chunk.css.map",
+    "static/js/2.89ff8aa6.chunk.js.LICENSE.txt": "/bokego-react/static/js/2.89ff8aa6.chunk.js.LICENSE.txt",
+    "static/media/board.87f5e0a8.svg": "/bokego-react/static/media/board.87f5e0a8.svg",
+    "static/media/mcts.7bb12d40.svg": "/bokego-react/static/media/mcts.7bb12d40.svg",
+    "static/media/nn.89e64522.png": "/bokego-react/static/media/nn.89e64522.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.96157815.js",
+    "static/js/2.89ff8aa6.chunk.js",
+    "static/css/main.d703ada4.chunk.css",
+    "static/js/main.a05400ca.chunk.js"
+  ]
+}
